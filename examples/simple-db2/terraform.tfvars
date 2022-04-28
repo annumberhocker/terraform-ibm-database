@@ -1,0 +1,7 @@
+ibmcloud_api_key             = "wRYZPhawQp365OSPZXOgeBT8CBnf1DrllAjFH1EhbGNn"
+resource_group               = "cloud-pak-sandbox-ibm"
+region                       = "us-south"
+cluster_id                   = "c91mfbvw0834bvof277g"
+db2_admin_user_password      = "Passw0rd"
+entitled_registry_key        = "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJQk0gTWFya2V0cGxhY2UiLCJpYXQiOjE1OTY4MzcwMjUsImp0aSI6IjcwMDNkYmU0ZDczZjQ4Y2M4NmQ4Y2Q5ZWE0YzVlYmY4In0.62Llbq4dGKWhPWOngqBMz5SdMZdbnGYjOFlzmN7Fgvw"
+entitled_registry_user_email = "ann.umberhocker@ibm.com"
